@@ -1,5 +1,8 @@
-public class student{
-    public void main(string[] args){
-        System.out.Println("hello world")
+public class student {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello World");
+
     }
 }
